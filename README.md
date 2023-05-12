@@ -1,1 +1,1 @@
-# rarkvin
+# rarkvin - учебный проект
